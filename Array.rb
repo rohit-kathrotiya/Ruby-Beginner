@@ -19,4 +19,4 @@ puts Friends    # friends[1] is a blank value
 puts Colour.length()
 puts Colour.include? "blue"
 puts Colour.reverse()
-puts Colour.sort()    # Sort functions not work when string and numbers are combine
+puts Colour.sort()    # Sort functions not work when string and numbers are combine 
