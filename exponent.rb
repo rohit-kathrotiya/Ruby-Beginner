@@ -4,7 +4,7 @@ def exa(base_no,pow_no)
     result = 1
     pow_no.times do |index|
         result = result * base_no
-    end
+    end  
     return result
 end
 
